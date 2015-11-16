@@ -1,0 +1,13 @@
+# vim: set fdm=marker fdl=1:
+{{{ 2015-11-06T15:46:16+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist clean driver-gamepad
+
+}}} 2015-11-06T15:46:16+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist clean driver-gamepad; (exit value: 1)
+
+
+
+{{{ 2015-11-06T15:59:05+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist clean driver-gamepad
+
+}}} 2015-11-06T15:59:05+0100 /opt/ex3/ptxdist-2013/lib/ptxdist-2013.07.1/bin/ptxdist clean driver-gamepad; (exit value: 1)
+
+
+
