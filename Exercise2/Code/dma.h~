@@ -1,0 +1,8 @@
+void setupDMA(uint16_t period);
+
+/* Questions for assistant :
+- can we use emlib 
+- channel descriptors (especially for source and destination adress, size of data structure (buffer) page 4 in DMA doc)
+- channel config : is it ok for a byte incrementation, for R power : we don't need to arbitrate often since we only use one channel, right ?)
+- why do we need another timer only for DMA and why not only with th first one
+*/
